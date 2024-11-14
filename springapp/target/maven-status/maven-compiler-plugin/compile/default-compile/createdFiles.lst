@@ -1,0 +1,6 @@
+com/examly/springapp/controller/ShirtController.class
+com/examly/springapp/service/ShirtService.class
+com/examly/springapp/SpringappApplication.class
+com/examly/springapp/service/ShirtServiceImpl.class
+com/examly/springapp/repository/ShirtRepo.class
+com/examly/springapp/model/Shirt.class
